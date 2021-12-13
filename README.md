@@ -8,6 +8,7 @@ Use Xbee to join Arduino UNO R3 and ESP8266 to measure the temperature and humid
 4. jump line
 5. Arduino Uno R3 LCD monitor
 6. ESP8266 W-ROOM 02
+7. iPad Pro 2021 (or which device can support with HomeKit App )
 
 /****XCTU****/
 1. Serial : 115200
