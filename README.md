@@ -1,4 +1,4 @@
-# DHT11_ESP8266_xbee
+# Use ESP8266 and XBee to sent the data for HomeKit 
 Use Xbee to join Arduino UNO R3 and ESP8266 to measure the temperature and humidity.
 
 /****Facility****/
