@@ -25,5 +25,5 @@ Use Xbee to join Arduino UNO R3 and ESP8266 to measure the temperature and humid
 1. ID PANID : 1001
 2. SC ScanChannles : 7FFF
 3. CE : AT[0]
-4. DH : Roter MAC address (before 4bits) //like 0012A300
-5. DL : Roter MAC address (after 4bits) // like 41CFC030
+4. DH : Coordinator MAC address (before 4bits) //like 0012A300
+5. DL : Coordinator MAC address (after 4bits) // like 41CFC030
