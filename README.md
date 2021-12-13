@@ -10,19 +10,19 @@ Use Xbee to join Arduino UNO R3 and ESP8266 to measure the temperature and humid
 6. ESP8266 W-ROOM 02
 
 /****XCTU****/
-Serial : 115200
-Firmware : ZIGBEE TH REG
+1. Serial : 115200
+2. Firmware : ZIGBEE TH REG
 
-Coordinator
-ID PANID : 1001
-SC ScanChannles : 7FFF
-CE : Enable[1]
-DH : Roter MAC address (before 4bits) //like 0012A300
-DL : Roter MAC address (after 4bits) // like 41CFC030
+/****Coordinator****/
+1. ID PANID : 1001
+2. SC ScanChannles : 7FFF
+3. CE : Enable[1]
+4. DH : Roter MAC address (before 4bits) //like 0012A300
+5. DL : Roter MAC address (after 4bits) // like 41CFC030
 
-Roter
-ID PANID : 1001
-SC ScanChannles : 7FFF
-CE : AT[0]
-DH : Roter MAC address (before 4bits) //like 0012A300
-DL : Roter MAC address (after 4bits) // like 41CFC030
+/****Roter****?
+1. ID PANID : 1001
+2. SC ScanChannles : 7FFF
+3. CE : AT[0]
+4. DH : Roter MAC address (before 4bits) //like 0012A300
+5. DL : Roter MAC address (after 4bits) // like 41CFC030
