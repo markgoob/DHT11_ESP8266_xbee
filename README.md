@@ -10,18 +10,18 @@ Use Xbee to join Arduino UNO R3 and ESP8266 to measure the temperature and humid
 6. ESP8266 W-ROOM 02
 7. iPad Pro 2021 (or which device can support with HomeKit App )
 
-/****XCTU****/
+/****--XCTU****/
 1. Serial : 115200
 2. Firmware : ZIGBEE TH REG
 
-/****Coordinator****/
+/****--Coordinator****/
 1. ID PANID : 1001
 2. SC ScanChannles : 7FFF
 3. CE : Enable[1]
 4. DH : Roter MAC address (before 4bits) //like 0012A300
 5. DL : Roter MAC address (after 4bits) // like 41CFC030
 
-/****Roter****/
+/****--Roter****/
 1. ID PANID : 1001
 2. SC ScanChannles : 7FFF
 3. CE : AT[0]
