@@ -4,7 +4,7 @@ Use Xbee to join Arduino UNO R3 and ESP8266 to measure the temperature and humid
 /****Facility****/
 1. XBee S2C 
 2. Arduino UNO R3
-3. Breadboardp
+3. Breadboard
 4. jump line
 5. Arduino Uno R3 LCD monitor
 6. ESP8266 W-ROOM 02
